@@ -1,0 +1,93 @@
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.blue {
+    background-color: #0a4d56!important;
+}
+.card{
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    text-align: center;
+    background-color: #f3fbfb;
+}
+.card-deck .card {
+    flex: 1 0 0%;
+    margin-right: 15px;
+    margin-bottom: 0;
+    margin-left: 15px;
+    border: none!important;
+    box-shadow: none;
+}
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    height: 31px!importent;
+    background-color: #e9ebff!importent;
+}
+.card-footer.white-footer {
+    padding: .75rem 1.25rem;
+    background-color: rgb(255 255 255 / 3%);
+    border-top: 1px solid rgb(255 255 255 / 13%);
+}
+.bold{
+    font-weight: bold;
+}
+.f-color{
+    color: #0a4d56!important;
+}
+.f-color.green{
+    color: #21B573!important;
+    font-weight: bold;
+}
+.text-align{
+    text-align: left;
+}
+.about{
+    background-color: #f3fbfb;
+}
+a.a-color{
+    color: #0a4d56;
+}
+.forget{
+    text-underline: dimgrey;
+}
+.foot{
+    text-align: center;
+    font-size: 14px;
+}
+.footer{
+    background-color: #0a4d56;
+    color: white;
+    padding: 50px 50px 20px 50px;
+}
+.f-head{
+    font-size: 16px;
+    font-weight: bold;
+}
+.f-body{
+    font-weight: 300;
+    font-size: 15px;
+}
+.gap-lg{
+    margin-bottom: 100px;
+}
+.gap-sm{
+    margin-bottom: 40px;
+}
+.button{
+    background-color: #21B573;
+    color: #ffffff;
+    border: none;
+    border-radius: 50px;
+    padding: 7px 25px;
+    cursor: pointer;
+}
+.sign-bg{
+    background-color: #f3fbfb;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+}
+.sing-in{
+    border-radius: 50px;
+    margin-bottom: 10px;
+    width: 400px;
+}
